@@ -39,6 +39,10 @@
 
 Исходный дата сет и описание ожидаемых результатов работы алгоритма расположены по ссылке: https://drive.google.com/drive/folders/1tuVYLmBZEvJF36HdT3y9-wt4CrZfKBBY?usp=sharing
 
+## Вывод программы ##
+
+Результат true/false для каждого предмета или сообщение об ошибке
+
 ## Разработчик ##
 
 Дроздова Дарья, группа 5030102/80401 (GitHub: Drozdova-Daria, email: daria.1211@mail.ru)
